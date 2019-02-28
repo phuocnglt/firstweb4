@@ -13,13 +13,13 @@
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/portfolio/dera/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>https://phuocnglt.github.io/firstweb4/portfolio/hyde-hyde/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/portfolio/hyde-hyde/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <loc>https://phuocnglt.github.io/firstweb4/portfolio/dera/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,25 +54,24 @@
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://phuocnglt.github.io/firstweb4/categories/development/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/tags/go/</loc>
+    <loc>https://phuocnglt.github.io/firstweb4/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/tags/golang/</loc>
+    <loc>https://phuocnglt.github.io/firstweb4/portfolio/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phuocnglt.github.io/firstweb4/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -84,19 +83,25 @@
   </url>
   
   <url>
+    <loc>https://phuocnglt.github.io/firstweb4/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://phuocnglt.github.io/firstweb4/tags/html/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/tags/hugo/</loc>
+    <loc>https://phuocnglt.github.io/firstweb4/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://phuocnglt.github.io/firstweb4/categories/hugo/</loc>
+    <loc>https://phuocnglt.github.io/firstweb4/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -117,11 +122,6 @@
     <loc>https://phuocnglt.github.io/firstweb4/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://phuocnglt.github.io/firstweb4/portfolio/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
